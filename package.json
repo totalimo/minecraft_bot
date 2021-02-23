@@ -1,0 +1,20 @@
+{
+  "name": "rg_discord_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "^0.0.1-security",
+    "minecraft-server-util": "^3.0.1",
+    "node-ssh": "^11.1.1",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
